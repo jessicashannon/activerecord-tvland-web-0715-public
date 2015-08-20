@@ -19,7 +19,7 @@
 2. Define the method `say_that_thing_you_say` and make the spec pass.
 
 ## spec/show_spec.rb
- 
+
 1. Create the neccesary associations between shows, networks, and characters.
 2. Add all the attributes to the Show model that the spec requires.
 
